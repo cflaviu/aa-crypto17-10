@@ -1,2 +1,2 @@
 # aa-crypto
-Crypto interface of AUTOSAR Adaptive Platform
+C++ API - Crypto interface of AUTOSAR Adaptive Platform
